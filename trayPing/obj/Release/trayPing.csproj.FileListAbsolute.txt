@@ -1,0 +1,18 @@
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.exe.config
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.exe
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.pdb
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.Form1.resources
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.Properties.Resources.resources
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.csproj.GenerateResource.Cache
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.exe
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.pdb
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.csprojResolveAssemblyReference.cache
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.exe.config
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.exe
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.pdb
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.exe
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\bin\Release\trayPing.pdb
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.csprojResolveAssemblyReference.cache
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.Form1.resources
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.Properties.Resources.resources
+C:\Users\lvo.ELEM\Desktop\2 комп\GitRepos\NumberRecognize\trayPing\trayPing\obj\Release\trayPing.csproj.GenerateResource.Cache

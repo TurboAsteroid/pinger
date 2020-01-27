@@ -1,0 +1,9 @@
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Debug\trayPing.exe.config
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Debug\trayPing.exe
+C:\GitRepos\NumberRecognize\trayPing\trayPing\bin\Debug\trayPing.pdb
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.csprojResolveAssemblyReference.cache
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.Form1.resources
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.Properties.Resources.resources
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.csproj.GenerateResource.Cache
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.exe
+C:\GitRepos\NumberRecognize\trayPing\trayPing\obj\Debug\trayPing.pdb
